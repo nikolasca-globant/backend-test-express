@@ -5,3 +5,13 @@
 the validation cannot be in the controller and return right response to user
 
 ### create a middleware to validate errors
+
+Testing results:
+Req without year
+![alt text](image.png)
+
+Req with valid year
+![alt text](image-1.png)
+
+Req with invalid year 
+![alt text](image-2.png)
